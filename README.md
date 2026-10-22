@@ -1,3 +1,7 @@
+# My Ziglings Solutions ⚡
+
+This repository contains my personal solutions for the **Ziglings** course. I am using this to master the basics of the Zig programming language, including memory management, pointers, and manual allocations.
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
